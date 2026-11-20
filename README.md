@@ -22,7 +22,7 @@ AI-written summaries.
 Multithreaded engine that parses Ethernet/IP/TCP/UDP traffic from PCAP files, identifies HTTPS domains via
 **TLS SNI extraction**, tracks five-tuple flows and filters traffic by IP, domain and application.
 
-### Facial Emotion Detection & Eye Tracking - Python
+### [Facial Emotion Detection & Eye Tracking](https://github.com/mishraasakshi/Face-Emotion-Detection-and-Eye-Tracking) - Python · team project
 Real-time computer vision from a normal webcam using InsightFace (106-point landmarks) and the ONNX-based
 HSEmotion model, with EMA smoothing, frame skipping and threaded capture for low latency.
 
